@@ -1,0 +1,2 @@
+[SERVER] received client packet: packet type=1 room is:1 player name is:1
+[SERVER] received client packet: packet type=7 room is:1 player name is:1
